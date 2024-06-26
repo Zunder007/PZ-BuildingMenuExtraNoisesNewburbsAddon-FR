@@ -1,0 +1,40 @@
+IGUI_FR = {
+
+    IGUI_BuildingMenuCat_ExtraNoiseNewburbs_Others = "Autres",
+    IGUI_BuildingMenuSubCat_ExtraNoiseNewburbs_Others_Flags = "Drapeaux",
+
+    IGUI_BuildingMenuSubCat_Walls_Painted_White = "Peint en blanc",
+    IGUI_BuildingMenuSubCat_Walls_Painted_Pink = "Peint en rose",
+    IGUI_BuildingMenuSubCat_Walls_Painted_Tan = "Peint en beige",
+    IGUI_BuildingMenuSubCat_Walls_Painted_Pale_Silver = "Peint en argent pâle",
+    IGUI_BuildingMenuSubCat_Walls_Painted_Smoke = "Peint en couleur fumée",
+    IGUI_BuildingMenuSubCat_Walls_Painted_Morning_Blue = "Peint en bleu matinal",
+    IGUI_BuildingMenuSubCat_Walls_Painted_Rhythm = "Peint en couleur rythmique",
+
+    IGUI_BuildingMenuSubCat_Walls_Painted_Cream = "Peint en couleur crème",
+    IGUI_BuildingMenuSubCat_Walls_Painted_Black = "Peint en noir",
+    IGUI_BuildingMenuSubCat_Walls_Painted_Cinereous = "Peint en couleur gris cendre",
+    IGUI_BuildingMenuSubCat_Walls_Painted_Grey_Asparagus = "Peint en gris chartreuse",
+
+    IGUI_BuildingMenuSubCat_Walls_Painted_Granite_Grey = "Peint en gris granit",
+    IGUI_BuildingMenuSubCat_Walls_Painted_Granite_Grey_Dark = "Peint en gris granit foncé",
+    IGUI_BuildingMenuSubCat_Walls_Painted_Spanish_Grey = "Peint en gris espagnol",
+    IGUI_BuildingMenuSubCat_Walls_Painted_Grullo = "Peint en couleur grullo",
+
+    IGUI_BuildingMenuSubCat_Walls_Light_Grey_Clapboard = "Clin couleur gris clair",
+    IGUI_BuildingMenuSubCat_Walls_Eggshell_Clapboard = "Clin couleur coquille d'œuf",
+    IGUI_BuildingMenuSubCat_Walls_Warm_Grey_Clapboard = "Clin couleur gris chaleureux",
+    IGUI_BuildingMenuSubCat_Walls_Red_Clapboard = "Clin rouge",
+    IGUI_BuildingMenuSubCat_Walls_Orange_Clapboard = "Clin orange",
+    IGUI_BuildingMenuSubCat_Walls_RedBrown_Clapboard = "Clin rouge brun",
+    IGUI_BuildingMenuSubCat_Walls_Tan_Clapboard = "Clin beige",
+
+    IGUI_BuildingMenuSubCat_Roofing_Light_Gray_Roofs = "Toits gris clair",
+    IGUI_BuildingMenuSubCat_Roofing_Warm_Gray_Roofs = "Toits gris chaleureux",
+    IGUI_BuildingMenuSubCat_Roofing_Red_Brown_Roofs = "Toits rouge brun",
+    IGUI_BuildingMenuSubCat_Roofing_Light_Brown_Roofs = "Toits brun clair",
+    IGUI_BuildingMenuSubCat_Roofing_Slate_Green_Roofs = "Toits vert ardoise",
+    IGUI_BuildingMenuSubCat_Roofing_Slate_Blue_Roofs = "Toits bleu ardoise",
+    IGUI_BuildingMenuSubCat_Roofing_Black_Roofs = "Toits noir",
+
+}
